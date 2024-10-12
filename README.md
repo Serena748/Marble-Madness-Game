@@ -1,7 +1,7 @@
 # Marble-Madness-Game
 Single-player game with 22 classes leveraging inheritance, polymorphism, and abstract base classes
 
-<img width="438" alt="Screenshot 2024-10-11 at 10 48 24 PM" src="https://github.com/user-attachments/assets/c4f5c1cb-38c5-43de-91b1-b19ddf0a4172">
+<p align="center"> <img width="438" alt="Screenshot 2024-10-11 at 10 48 24 PM" src="https://github.com/user-attachments/assets/c4f5c1cb-38c5-43de-91b1-b19ddf0a4172"> p> 
 
 **Marble Madness** is a maze-based game where the player navigates various levels, starting with three lives. Each level features a maze filled with blue crystals, enemies, and obstacles. The player's goal is to collect all blue crystals to reveal an exit and progress to the next level.
 
